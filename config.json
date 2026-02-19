@@ -20,6 +20,20 @@
       ]
     },
     {
+      "id": "python-data-structures",
+      "title": "Data Structures in Python",
+      "description": "Master lists, dictionaries, sets, and tuples with practical applications.",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-02-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
@@ -56,6 +70,62 @@
           "name": "Sample Dataset",
           "file": "data.csv",
           "type": "csv"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Master string manipulation, file I/O, and text processing techniques in Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-02-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create compelling charts and graphs using matplotlib and plotly.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-02-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-statistics",
+      "title": "Statistics with Python",
+      "description": "Master data analysis and statistical calculations using pandas and numpy.",
+      "path": "assignments/python-statistics",
+      "dueDate": "2026-02-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create scalable REST APIs using FastAPI with validation, error handling, and automatic documentation.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-02-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
         }
       ]
     }
